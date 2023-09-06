@@ -1,5 +1,10 @@
 # Hotel-KPI-Analysis
 
+
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/04206930-7f17-4b7f-94af-3421bc6a37df)![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/0308d2ed-8b4e-4af1-b2b7-cd8b613c7356)
+
+
+
 # Problem-statement
 Main aim is to analyze the data of Hotel KPI analysis and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
 Also find at least 10 meaningful insights that can help improve business operations and decision-making.
