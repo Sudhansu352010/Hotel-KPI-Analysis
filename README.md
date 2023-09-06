@@ -17,7 +17,8 @@ DATA CLEANING USING  EXCEL AND MERGED DIFFERENT TABLES BY USING VLOOKUP FUNCTION
 VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
 
 # Data Preparation
-![Uploading image.png…]()
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/c1ad384e-0308-45d2-9ce6-d0c7347104ea)
+
 
 # Key Insights
 
