@@ -10,6 +10,8 @@ Main aim is to analyze the data of Hotel KPI analysis and extract valuable insig
 Also find at least 10 meaningful insights that can help improve business operations and decision-making.
 
 # Our Approach For The Project
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/8617c359-ae36-4f58-b5ea-23615f0edfef)
+
 COLLECTION OF HOTEL DATASETS
 DATA CLEANING USING  EXCEL AND MERGED DIFFERENT TABLES BY USING VLOOKUP FUNCTIONS
 VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
