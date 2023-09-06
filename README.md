@@ -24,6 +24,8 @@ VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
 Dataset Snapshot:
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/e36364a7-5df5-4407-9ebf-07b92e8b55db)
 
+# Dashboard
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/371df0de-b338-4703-a554-1aaed56647b4)
 
 
 # Key Insights
