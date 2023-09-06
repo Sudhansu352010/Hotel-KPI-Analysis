@@ -16,11 +16,9 @@ COLLECTION OF HOTEL DATASETS
 DATA CLEANING USING  EXCEL AND MERGED DIFFERENT TABLES BY USING VLOOKUP FUNCTIONS
 VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
 
+# Data Preparation
+
 # Key Insights
-![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/ee6d2610-2b6e-4168-8f9a-27fa2a93a51c)
-
-
-
 
 The cancellation rate  is about greater  than 50%.
 
