@@ -16,8 +16,14 @@ COLLECTION OF HOTEL DATASETS
 DATA CLEANING USING  EXCEL AND MERGED DIFFERENT TABLES BY USING VLOOKUP FUNCTIONS
 VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
 
-# Data Preparation
+# Data Dictionary
+
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/c1ad384e-0308-45d2-9ce6-d0c7347104ea)
+
+# Data Preparation
+Dataset Snapshot:
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/e36364a7-5df5-4407-9ebf-07b92e8b55db)
+
 
 
 # Key Insights
