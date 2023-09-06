@@ -3,6 +3,8 @@
 
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/04206930-7f17-4b7f-94af-3421bc6a37df)![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/0308d2ed-8b4e-4af1-b2b7-cd8b613c7356)
 
+# Tools Used
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/d867f28a-48b4-4532-9994-fa6f69e2778c)
 
 
 # Problem-statement
