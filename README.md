@@ -6,6 +6,8 @@
 # Tools Used
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/d867f28a-48b4-4532-9994-fa6f69e2778c)
 
+# Description of the project:
+The Hotel-KPI-Analysis project aims to delve into hotel data, extracting crucial insights on occupancy rates, booking behaviors, customer demographics, revenue trends, and cancellation rates. Utilizing a combination of Excel for data cleaning and merging, alongside Power BI for visualization, the project identifies over 10 actionable insights to enhance business strategies and decision-making processes.
 
 # Problem-statement
 Main aim is to analyze the data of Hotel KPI analysis and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
